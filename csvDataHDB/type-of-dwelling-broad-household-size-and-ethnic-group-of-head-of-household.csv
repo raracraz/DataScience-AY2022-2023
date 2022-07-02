@@ -1,0 +1,160 @@
+year,level_1,level_2,level_3,value
+2015,Total,Total,"Total",1225.3
+2015,Total,Total,"HDB Dwellings",981.1
+2015,Total,Total,"Condominiums And Other Apartments",170.8
+2015,Total,Total,"Landed Properties",69.2
+2015,Total,Total,"Others",4.2
+2015,Total,1 Person,"Total",146
+2015,Total,1 Person,"HDB Dwellings",117.3
+2015,Total,1 Person,"Condominiums And Other Apartments",24.6
+2015,Total,1 Person,"Landed Properties",2.9
+2015,Total,1 Person,"Others",1.2
+2015,Total,2 Persons,"Total",259.2
+2015,Total,2 Persons,"HDB Dwellings",214.6
+2015,Total,2 Persons,"Condominiums And Other Apartments",34.3
+2015,Total,2 Persons,"Landed Properties",9.6
+2015,Total,2 Persons,"Others",0.7
+2015,Total,3 Persons,"Total",256.2
+2015,Total,3 Persons,"HDB Dwellings",211.3
+2015,Total,3 Persons,"Condominiums And Other Apartments",31.9
+2015,Total,3 Persons,"Landed Properties",12.2
+2015,Total,3 Persons,"Others",0.8
+2015,Total,4 Persons,"Total",282.2
+2015,Total,4 Persons,"HDB Dwellings",227.3
+2015,Total,4 Persons,"Condominiums And Other Apartments",40.1
+2015,Total,4 Persons,"Landed Properties",14
+2015,Total,4 Persons,"Others",0.8
+2015,Total,5 Persons,"Total",164
+2015,Total,5 Persons,"HDB Dwellings",123.9
+2015,Total,5 Persons,"Condominiums And Other Apartments",25.9
+2015,Total,5 Persons,"Landed Properties",13.9
+2015,Total,5 Persons,"Others",0.3
+2015,Total,6 Or More Persons,"Total",117.6
+2015,Total,6 Or More Persons,"HDB Dwellings",86.7
+2015,Total,6 Or More Persons,"Condominiums And Other Apartments",13.9
+2015,Total,6 Or More Persons,"Landed Properties",16.7
+2015,Total,6 Or More Persons,"Others",0.3
+2015,Chinese,Total,"Total",937.9
+2015,Chinese,Total,"HDB Dwellings",736.3
+2015,Chinese,Total,"Condominiums And Other Apartments",139
+2015,Chinese,Total,"Landed Properties",58.9
+2015,Chinese,Total,"Others",3.8
+2015,Chinese,1 Person,"Total",121.9
+2015,Chinese,1 Person,"HDB Dwellings",97.4
+2015,Chinese,1 Person,"Condominiums And Other Apartments",20.7
+2015,Chinese,1 Person,"Landed Properties",2.6
+2015,Chinese,1 Person,"Others",1.1
+2015,Chinese,2 Persons,"Total",209.5
+2015,Chinese,2 Persons,"HDB Dwellings",172.7
+2015,Chinese,2 Persons,"Condominiums And Other Apartments",27.5
+2015,Chinese,2 Persons,"Landed Properties",8.5
+2015,Chinese,2 Persons,"Others",0.7
+2015,Chinese,3 Persons,"Total",198.7
+2015,Chinese,3 Persons,"HDB Dwellings",161.9
+2015,Chinese,3 Persons,"Condominiums And Other Apartments",25.9
+2015,Chinese,3 Persons,"Landed Properties",10.3
+2015,Chinese,3 Persons,"Others",0.7
+2015,Chinese,4 Persons,"Total",214.1
+2015,Chinese,4 Persons,"HDB Dwellings",168.6
+2015,Chinese,4 Persons,"Condominiums And Other Apartments",33
+2015,Chinese,4 Persons,"Landed Properties",11.7
+2015,Chinese,4 Persons,"Others",0.7
+2015,Chinese,5 Persons,"Total",116.8
+2015,Chinese,5 Persons,"HDB Dwellings",84.9
+2015,Chinese,5 Persons,"Condominiums And Other Apartments",20
+2015,Chinese,5 Persons,"Landed Properties",11.6
+2015,Chinese,5 Persons,"Others",0.2
+2015,Chinese,6 Or More Persons,"Total",77
+2015,Chinese,6 Or More Persons,"HDB Dwellings",50.7
+2015,Chinese,6 Or More Persons,"Condominiums And Other Apartments",11.8
+2015,Chinese,6 Or More Persons,"Landed Properties",14.1
+2015,Chinese,6 Or More Persons,"Others",0.3
+2015,Malays,Total,"Total",134.1
+2015,Malays,Total,"HDB Dwellings",130.7
+2015,Malays,Total,"Condominiums And Other Apartments",2.5
+2015,Malays,Total,"Landed Properties",1
+2015,Malays,1 Person,"Total",9.2
+2015,Malays,1 Person,"HDB Dwellings",8.8
+2015,Malays,1 Person,"Condominiums And Other Apartments",0.3
+2015,Malays,1 Person,"Landed Properties",0.2
+2015,Malays,2 Persons,"Total",22.9
+2015,Malays,2 Persons,"HDB Dwellings",22.5
+2015,Malays,2 Persons,"Condominiums And Other Apartments",0.3
+2015,Malays,2 Persons,"Landed Properties",0.1
+2015,Malays,3 Persons,"Total",26.4
+2015,Malays,3 Persons,"HDB Dwellings",25.7
+2015,Malays,3 Persons,"Condominiums And Other Apartments",0.5
+2015,Malays,3 Persons,"Landed Properties",0.2
+2015,Malays,4 Persons,"Total",29.3
+2015,Malays,4 Persons,"HDB Dwellings",28.6
+2015,Malays,4 Persons,"Condominiums And Other Apartments",0.6
+2015,Malays,4 Persons,"Landed Properties",0.1
+2015,Malays,5 Persons,"Total",21.5
+2015,Malays,5 Persons,"HDB Dwellings",21
+2015,Malays,5 Persons,"Condominiums And Other Apartments",0.5
+2015,Malays,6 Or More Persons,"Total",24.8
+2015,Malays,6 Or More Persons,"HDB Dwellings",24.1
+2015,Malays,6 Or More Persons,"Condominiums And Other Apartments",0.3
+2015,Malays,6 Or More Persons,"Landed Properties",0.5
+2015,Indians,Total,"Total",113
+2015,Indians,Total,"HDB Dwellings",91.1
+2015,Indians,Total,"Condominiums And Other Apartments",16.6
+2015,Indians,Total,"Landed Properties",4.9
+2015,Indians,Total,"Others",0.3
+2015,Indians,1 Person,"Total",10.3
+2015,Indians,1 Person,"HDB Dwellings",8.8
+2015,Indians,1 Person,"Condominiums And Other Apartments",1.3
+2015,Indians,1 Person,"Others",0.1
+2015,Indians,2 Persons,"Total",19
+2015,Indians,2 Persons,"HDB Dwellings",15.6
+2015,Indians,2 Persons,"Condominiums And Other Apartments",2.7
+2015,Indians,2 Persons,"Landed Properties",0.7
+2015,Indians,3 Persons,"Total",24.1
+2015,Indians,3 Persons,"HDB Dwellings",19.6
+2015,Indians,3 Persons,"Condominiums And Other Apartments",3.4
+2015,Indians,3 Persons,"Landed Properties",1
+2015,Indians,3 Persons,"Others",0.1
+2015,Indians,4 Persons,"Total",29.6
+2015,Indians,4 Persons,"HDB Dwellings",24.1
+2015,Indians,4 Persons,"Condominiums And Other Apartments",4.4
+2015,Indians,4 Persons,"Landed Properties",1
+2015,Indians,4 Persons,"Others",0.1
+2015,Indians,5 Persons,"Total",19.5
+2015,Indians,5 Persons,"HDB Dwellings",14.7
+2015,Indians,5 Persons,"Condominiums And Other Apartments",3.6
+2015,Indians,5 Persons,"Landed Properties",1.1
+2015,Indians,5 Persons,"Others",0.1
+2015,Indians,6 Or More Persons,"Total",10.6
+2015,Indians,6 Or More Persons,"HDB Dwellings",8.3
+2015,Indians,6 Or More Persons,"Condominiums And Other Apartments",1.1
+2015,Indians,6 Or More Persons,"Landed Properties",1.1
+2015,Others,Total,"Total",40.3
+2015,Others,Total,"HDB Dwellings",23
+2015,Others,Total,"Condominiums And Other Apartments",12.8
+2015,Others,Total,"Landed Properties",4.4
+2015,Others,Total,"Others",0.1
+2015,Others,1 Person,"Total",4.6
+2015,Others,1 Person,"HDB Dwellings",2.3
+2015,Others,1 Person,"Condominiums And Other Apartments",2.3
+2015,Others,1 Person,"Landed Properties",0.1
+2015,Others,2 Persons,"Total",7.8
+2015,Others,2 Persons,"HDB Dwellings",3.7
+2015,Others,2 Persons,"Condominiums And Other Apartments",3.8
+2015,Others,2 Persons,"Landed Properties",0.3
+2015,Others,3 Persons,"Total",7
+2015,Others,3 Persons,"HDB Dwellings",4.1
+2015,Others,3 Persons,"Condominiums And Other Apartments",2.1
+2015,Others,3 Persons,"Landed Properties",0.7
+2015,Others,3 Persons,"Others",0.1
+2015,Others,4 Persons,"Total",9.3
+2015,Others,4 Persons,"HDB Dwellings",6
+2015,Others,4 Persons,"Condominiums And Other Apartments",2.1
+2015,Others,4 Persons,"Landed Properties",1.2
+2015,Others,5 Persons,"Total",6.3
+2015,Others,5 Persons,"HDB Dwellings",3.4
+2015,Others,5 Persons,"Condominiums And Other Apartments",1.8
+2015,Others,5 Persons,"Landed Properties",1.1
+2015,Others,6 Or More Persons,"Total",5.2
+2015,Others,6 Or More Persons,"HDB Dwellings",3.6
+2015,Others,6 Or More Persons,"Condominiums And Other Apartments",0.7
+2015,Others,6 Or More Persons,"Landed Properties",1
